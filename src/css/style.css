@@ -1,0 +1,62 @@
+h1
+{
+    margin: 0px;
+    text-align: center;
+    color: white;
+}
+
+.s1
+{
+    background: url("../images/ori.jpg");
+    background-size: cover;
+}
+
+.s1 h1
+{
+    margin-right: 25%;
+}
+
+.s2
+{
+    background: url("../images/hornet.jpg");
+    background-size: cover;
+}
+
+.s2 h1
+{
+    margin-left:50%;
+}
+
+.s3 h1
+{
+    margin-left:50%;
+}
+
+.s3
+{
+    background: url("../images/knight.jpg");
+    background-size: cover;
+}
+
+.s4
+{
+    background: url("../images/knight-background.jpg");
+    background-size: cover;
+}
+
+
+.input-form
+{
+    margin-left: 30%;
+    width: 25%;
+}
+.subscribe-button
+{
+    margin-right: 30%;
+    width: 10%;
+}
+
+span
+{
+    background: white !important;
+}
